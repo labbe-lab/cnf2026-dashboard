@@ -1,0 +1,38 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Python virtual environments
+cnf_env/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+# Comment below lines out (or remove) later if I choose to upload notebooks
+*.ipynb 
+notebooks/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Data processing outputs (Uncomment these if you do not want to track intermediate files)
+# data/raw/
+# data/temp/
+# data/intermediate/
+
+# Development files
+cnf2026 files and relationships.xlsx
+cnf2026_data_exploration.py

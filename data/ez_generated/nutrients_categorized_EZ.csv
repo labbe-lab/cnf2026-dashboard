@@ -1,0 +1,174 @@
+﻿Nutrient_Order_EZ,Nutrient_Category_EZ,Nutrient_Code,Nutrient_Name_EN,Nutrient_Name_EN_EZ
+1,Proximates,255,Moisture,Moisture
+2,Proximates,207,"Ash, total",Ash
+3,Proximates,203,Protein,Protein
+4,Proximates,204,Fat (total lipids),Total Fat
+5,Proximates,205,"Carbohydrate, total (by difference)",Carbohydrate
+6,Proximates,221,Alcohol,Alcohol
+7,Proximates,208,Energy (kilocalories),Energy (kcal)
+8,Proximates,268,Energy (kilojoules),Energy (kJ)
+9,Other Carbohydrates,291,"Fibre, total dietary","Fibre, total dietary"
+10,Other Carbohydrates,269,"Sugars, total","Sugars, total"
+11,Other Carbohydrates,211,Glucose,Glucose
+12,Other Carbohydrates,212,Fructose,Fructose
+13,Other Carbohydrates,214,Maltose,Maltose
+14,Other Carbohydrates,287,Galactose,Galactose
+15,Other Carbohydrates,213,Lactose,Lactose
+16,Other Carbohydrates,210,Sucrose,Sucrose
+17,Other Carbohydrates,260,Mannitol,Mannitol
+18,Other Carbohydrates,261,Sorbitol,Sorbitol
+19,Other Carbohydrates,1001,Fructans (inulin),Fructans (inulin)
+20,Minerals,301,Calcium,"Calcium, Ca"
+21,Minerals,303,Iron,"Iron, Fe"
+22,Minerals,304,Magnesium,"Magnesium, Mg"
+23,Minerals,305,Phosphorus,"Phosphorus, P"
+24,Minerals,306,Potassium,"Potassium, K"
+25,Minerals,307,Sodium,"Sodium, Na"
+26,Minerals,309,Zinc,"Zinc, Zn"
+27,Minerals,312,Copper,"Copper, Cu"
+28,Minerals,315,Manganese,"Manganese, Mn"
+29,Minerals,317,Selenium,"Selenium, Se"
+30,Vitamins,321,Beta carotene,Beta carotene
+31,Vitamins,322,Alpha carotene,Alpha carotene
+32,Vitamins,319,Retinol,Retinol
+33,Vitamins,320,Retinol activity equivalents,"Retinol activity equivalents, RAE"
+34,Vitamins,334,Beta cryptoxanthin,Beta cryptoxanthin
+35,Vitamins,417,Total folacin,"Folacin, total"
+36,Vitamins,431,Folic acid,"Folic acid, synthetic form"
+37,Vitamins,432,Naturally occurring folate,"Folate, naturally occurring"
+38,Vitamins,435,Dietary folate equivalents,"Dietary folate equivalents, DFE"
+39,Vitamins,406,Niacin (nicotinic acid) preformed,Niacin (nicotinic acid) preformed
+40,Vitamins,409,Total niacin equivalent,"Niacin equivalents, total"
+41,Vitamins,410,Pantothenic acid,Pantothenic acid
+42,Vitamins,405,Riboflavin,Riboflavin
+43,Vitamins,404,Thiamine,Thiamine
+44,Vitamins,415,Vitamin B-6,Vitamin B-6
+45,Vitamins,418,Vitamin B-12,Vitamin B-12
+46,Vitamins,578,"Vitamin B-12, added","Vitamin B-12, added"
+47,Vitamins,421,"Choline, total","Choline, total"
+48,Vitamins,454,Betaine,Betaine
+49,Vitamins,401,Vitamin C,Vitamin C
+50,Vitamins,328,Vitamin D (D2 + D3),Vitamin D
+51,Vitamins,325,"Vitamin D2, ergocalciferol",Vitamin D2
+52,Vitamins,326,"Vitamin D3, cholecalciferol",Vitamin D3
+53,Vitamins,324,Vitamin D (International Units),Vitamin D (IU)
+54,Vitamins,329,25-hydroxycholecalciferol,25-hydroxycholecalciferol
+55,Vitamins,330,25-hydroxyergocalciferol,25-hydroxyergocalciferol
+56,Vitamins,428,Vitamin K (menaquinone-4),Vitamin K (menaquinone-4)
+57,Vitamins,429,Vitamin K (dihydrophylloquinone),Vitamin K (dihydrophylloquinone)
+58,Vitamins,430,Vitamin K (phylloquinone),Vitamin K (phylloquinone)
+59,Vitamins,323,Alpha-tocopherol,Alpha-tocopherol
+60,Vitamins,573,"Alpha-tocopherol, added","Alpha-tocopherol, added"
+61,Vitamins,341,Beta-tocopherol,Beta-tocopherol
+62,Vitamins,343,Delta-tocopherol,Delta-tocopherol
+63,Vitamins,342,Gamma-tocopherol,Gamma-tocopherol
+64,Amino Acids,501,Tryptophan,Tryptophan
+65,Amino Acids,502,Threonine,Threonine
+66,Amino Acids,503,Isoleucine,Isoleucine
+67,Amino Acids,504,Leucine,Leucine
+68,Amino Acids,505,Lysine,Lysine
+69,Amino Acids,506,Methionine,Methionine
+70,Amino Acids,507,Cystine,Cystine
+71,Amino Acids,508,Phenylalanine,Phenylalanine
+72,Amino Acids,509,Tyrosine,Tyrosine
+73,Amino Acids,510,Valine,Valine
+74,Amino Acids,511,Arginine,Arginine
+75,Amino Acids,512,Histidine,Histidine
+76,Amino Acids,513,Alanine,Alanine
+77,Amino Acids,514,Aspartic acid,Aspartic acid
+78,Amino Acids,515,Glutamic acid,Glutamic acid
+79,Amino Acids,516,Glycine,Glycine
+80,Amino Acids,517,Proline,Proline
+81,Amino Acids,518,Serine,Serine
+82,Amino Acids,521,Hydroxyproline,Hydroxyproline
+83,Lipids,606,"Fatty acids, saturated, total","Fatty acids, saturated, total"
+84,Lipids,607,"Fatty acids, saturated, 4:0, butanoic",4:0 (butanoic)
+85,Lipids,608,"Fatty acids, saturated, 6:0, hexanoic",6:0 (hexanoic)
+86,Lipids,609,"Fatty acids, saturated, 8:0, octanoic",8:0 (octanoic)
+87,Lipids,610,"Fatty acids, saturated, 10:0, decanoic",10:0 (decanoic)
+88,Lipids,611,"Fatty acids, saturated, 12:0, dodecanoic",12:0 (dodecanoic)
+89,Lipids,696,"Fatty acids, saturated, 13:0 tridecanoic",13:0 (tridecanoic)
+90,Lipids,612,"Fatty acids, saturated, 14:0, tetradecanoic",14:0 (tetradecanoic)
+91,Lipids,652,"Fatty acids, saturated, 15:0, pentadecanoic",15:0 (pentadecanoic
+92,Lipids,613,"Fatty acids, saturated, 16:0, hexadecanoic",16:0 (heptadecanoic)
+93,Lipids,653,"Fatty acids, saturated, 17:0, heptadecanoic",17:0 (eicosanoic)
+94,Lipids,614,"Fatty acids, saturated, 18:0, octadecanoic",18:0 (octadecanoic)
+95,Lipids,615,"Fatty acids, saturated, 20:0, eicosanoic",20:0 (eicosanoic)
+96,Lipids,624,"Fatty acids, saturated, 22:0, docosanoic",22:0 (docosanoic)
+97,Lipids,654,"Fatty acids, saturated, 24:0, tetracosanoic",24:0 (tetracosanoic)
+98,Lipids,645,"Fatty acids, monounsaturated, total","Fatty acids, monounsaturated, total"
+99,Lipids,860,"Fatty acids, monounsaturated, 12:1, lauroleic",12:1 (lauroleic)
+100,Lipids,625,"Fatty acids, monounsaturated, 14:1, tetradecenoic",14:1 (tetradecenoic)
+101,Lipids,697,"Fatty acids, monounsaturated, 15:1, pentadecenoic",15:1 (pentadecenoic)
+102,Lipids,626,"Fatty acids, monounsaturated, 16:1undifferentiated, hexadecenoic","16:1 (undifferentiated, hexadecenoic)"
+103,Lipids,673,"Fatty acids, monounsaturated, 16:1c, hexadecenoic",16:1c (hexadecenoic)
+104,Lipids,662,"Fatty acids, monounsaturated, 16:1t, hexadecenoic",16:1t (hexadecenoic)
+105,Lipids,687,"Fatty acids, monounsaturated, 17:1, heptadecenoic",17:1 (heptadecenoic)
+106,Lipids,884,"Fatty acids, monounsaturated, 18:1 10c",18:1 10c
+107,Lipids,905,"Fatty acids, monounsaturated, 18:1 10t",18:1 10t
+108,Lipids,885,"Fatty acids, monounsaturated, 18:1 11c",18:1 11c
+109,Lipids,897,"Fatty acids, monounsaturated, 18:1 11t",18:1 11t
+110,Lipids,886,"Fatty acids, monounsaturated, 18:1 12c",18:1 12c
+111,Lipids,906,"Fatty acids, monounsaturated, 18:1 12t",18:1 12t
+112,Lipids,888,"Fatty acids, monounsaturated, 18:1 13c",18:1 13c
+113,Lipids,907,"Fatty acids, monounsaturated, 18:1 13t + 14t + 6c-8c",18:1 13t + 14t + 6c-8c
+114,Lipids,891,"Fatty acids, monounsaturated, 18:1 14c",18:1 14c
+115,Lipids,895,"Fatty acids, monounsaturated, 18:1 15c",18:1 15c
+116,Lipids,896,"Fatty acids, monounsaturated, 18:1 16c",18:1 16c
+117,Lipids,908,"Fatty acids, monounsaturated, 18:1 16t",18:1 16t
+118,Lipids,898,"Fatty acids, monounsaturated, 18:1 4t",18:1 4t
+119,Lipids,899,"Fatty acids, monounsaturated, 18:1 5t",18:1 5t
+120,Lipids,904,"Fatty acids, monounsaturated, 18:1 6t-8t",18 1 6t-8t
+121,Lipids,674,"Fatty acids, monounsaturated, 18:1c, octadecenoic",18:1c (octadecenoic)
+122,Lipids,663,"Fatty acids, monounsaturated, 18:1t, octadecenoic",18:1t (octadecenoic)
+123,Lipids,617,"Fatty acids, monounsaturated, 18:1undifferentiated, octadecenoic","18:1 (undifferentiated, octadecenoic)"
+124,Lipids,909,"Fatty acids, monounsaturated, 20:1 5c",20:1 5c
+125,Lipids,628,"Fatty acids, monounsaturated, 20:1, eicosenoic",20:1 (eicosenoic)
+126,Lipids,676,"Fatty acids, monounsaturated, 22:1c, docosenoic",22:1c (docosenoic)
+127,Lipids,664,"Fatty acids, monounsaturated, 22:1t, docosenoic",22:1t (docosenoic)
+128,Lipids,630,"Fatty acids, monounsaturated, 22:1undifferentiated, docosenoic","22:1 (undifferentiated, docosenoic)"
+129,Lipids,671,"Fatty acids, monounsaturated, 24:1c, tetracosenoic",24:1c (tetracosenoic)
+130,Lipids,859,"Fatty acids, monounsaturated,  24:1undifferentiated, tetracosenoic","24:1 (undifferentiated, tetracosenoic)"
+131,Lipids,646,"Fatty acids, polyunsaturated, total","Fatty acids, polyunsaturated, total"
+132,Lipids,910,"Fatty acids, polyunsaturated, 18:2 9c,13c","18:2 9c,13c"
+133,Lipids,911,"Fatty acids, polyunsaturated, 18:2 9c,14c","18:2 9c,14c"
+134,Lipids,912,"Fatty acids, polyunsaturated, 18:2 9c,15c","18:2 9c,15c"
+135,Lipids,675,"Fatty acids, polyunsaturated, 18:2 c,c n-6,  linoleic, octadecadienoic","18:2 c,c n-6 (linoleic, octadecadienoic)"
+136,Lipids,666,"Fatty acids, polyunsaturated, 18:2i, linoleic, octadecadienoic","18:2i (linoleic, octadecadienoic)"
+137,Lipids,665,"Fatty acids, polyunsaturated, 18:2t not further defined, linoleic, octadecadienoic","18:2t (not further defined, linoleic, octadecadienoic)"
+138,Lipids,669,"Fatty acids, polyunsaturated, 18:2t,t , octadecadienenoic","18:2t,t (octadecadienenoic)"
+139,Lipids,618,"Fatty acids, polyunsaturated, 18:2undifferentiated, linoleic, octadecadienoic","18:2 (undifferentiated, linoleic, octadecadienoic)"
+140,Lipids,670,"Fatty acids, polyunsaturated, conjugated, 18:2 cla, linoleic, octadecadienoic","18:2 (cla, linoleic, octadecadienoic)"
+141,Lipids,851,"Fatty acids, polyunsaturated, 18:3 c,c,c n-3  linolenic, octadecatrienoic","18:3 (c,c,c n-3  linolenic, octadecatrienoic)"
+142,Lipids,685,"Fatty acids, polyunsaturated, 18:3 c,c,c n-6, g-linolenic, octadecatrienoic","18:3 (c,c,c n-6, g-linolenic, octadecatrienoic)"
+143,Lipids,856,"Fatty acids, polyunsaturated, 18:3i, linolenic, octadecatrienoic","18:3i (linolenic, octadecatrienoic)"
+144,Lipids,619,"Fatty acids, polyunsaturated, 18:3undifferentiated, linolenic, octadecatrienoic","18:3 (undifferentiated, linolenic, octadecatrienoic)"
+145,Lipids,627,"Fatty acids, polyunsaturated, 18:4, octadecatetraenoic",18:4 (octadecatetraenoic)
+146,Lipids,672,"Fatty acids, polyunsaturated, 20:2 c,c  eicosadienoic","20:2 (c,c  eicosadienoic)"
+147,Lipids,852,"Fatty acids, polyunsaturated, 20:3 n-3 eicosatrienoic",20:3 (n-3 eicosatrienoic)
+148,Lipids,853,"Fatty acids, polyunsaturated, 20:3 n-6, eicosatrienoic","20:3 (n-6, eicosatrienoic)"
+149,Lipids,689,"Fatty acids, polyunsaturated, 20:3, eicosatrienoic",20:3 (eicosatrienoic)
+150,Lipids,855,"Fatty acids, polyunsaturated, 20:4 n-6, arachidonic","20:4 (n-6, arachidonic)"
+151,Lipids,620,"Fatty acids, polyunsaturated, 20:4, eicosatetraenoic",20:4 (eicosatetraenoic)
+152,Lipids,629,"Fatty acids, polyunsaturated, 20:5 n-3, eicosapentaenoic (EPA)","20:5 (n-3, eicosapentaenoic (EPA))"
+153,Lipids,857,"Fatty acids, polyunsaturated, 21:5",21:05
+154,Lipids,862,"Fatty acids, polyunsaturated, 22:2, docosadienoic",22:2 (docosadienoic)
+155,Lipids,861,"Fatty acids, polyunsaturated, 22:3,",22:03
+156,Lipids,858,"Fatty acids, polyunsaturated, 22:4 n-6, docosatetraenoic","22:4 (n-6, docosatetraenoic)"
+157,Lipids,631,"Fatty acids, polyunsaturated, 22:5 n-3, docosapentaenoic (DPA)","22:5 (n-3, docosapentaenoic (DPA))"
+158,Lipids,913,"Fatty acids, polyunsaturated, 22:5n-6",22:5 (n-6)
+159,Lipids,621,"Fatty acids, polyunsaturated, 22:6 n-3, docosahexaenoic (DHA)","22:6 (n-3, docosahexaenoic (DHA))"
+160,Lipids,605,"Fatty acids, trans, total","Fatty acids, trans, total"
+161,Lipids,693,"Fatty acids, total trans-monoenoic","Fatty acids, total trans-monoenoic"
+162,Lipids,695,"Fatty acids, total trans-polyenoic","Fatty acids, total trans-polyenoic"
+163,Lipids,601,Cholesterol,Cholesterol
+164,Lipids,636,Total plant sterol,Total plant sterol
+165,Lipids,641,Beta-sitosterol,Beta-sitosterol
+166,Lipids,639,Campesterol,Campesterol
+167,Lipids,638,Stigmasterol,Stigmasterol
+168,Other Components,550,Aspartame,Aspartame
+169,Other Components,416,Biotin,Biotin
+170,Other Components,262,Caffeine,Caffeine
+171,Other Components,263,Theobromine,Theobromine
+172,Other Components,338,Lutein and zeaxanthin,Lutein and zeaxanthin
+173,Other Components,337,Lycopene,Lycopene
