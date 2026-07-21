@@ -1,22 +1,22 @@
 # Canadian Nutrient File (CNF) 2026 Dashboard
 
-An interactive dashboard for to be used to help access to nutrient composition information 
-from the 2026 Canadian Nutrient File (CNF).
+An interactive dashboard designed to help access to nutrient composition information from the 
+2026 Canadian Nutrient File (CNF).
 
 The CNF 2026 Dashboard is available here: 
-[Open the dashboard](https://cnf2026-dashboard-qcbkn3v2zeodvyr7oomphn.streamlit.app/)
+https://cnf2026-dashboard-qcbkn3v2zeodvyr7oomphn.streamlit.app/
 
 ## Overview
 
 The Canadian Nutrient File (CNF) 2026 Dashboard was developed as an independent 
 academic project to provide a user-friendly interface for exploring food nutrient profiles 
-using the updated CNF 2026 data.
+using the newly released CNF 2026 data.
 
 The dashboard allows users to search for foods and view nutrient compostion information 
 from the publicly available Canadian Nutrient File (CNF) 2026 data developed and shared by 
 Health Canada.
 
-The interface was developed based on the functionality of Health Canada's Canadian Nutrient 
+The interface was modelled after the functionality of Health Canada's Canadian Nutrient 
 File (CNF) – Search by food tool created for the 2015 Canadian Nutrient File.
 
 This dashboard is intended to improve accessibility of CNF 2026 nutrient profiles and is 
@@ -81,4 +81,5 @@ labbe.lab@utoronto.ca
 Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/emilyziraldo/cnf2026-dashboard.git
+```
