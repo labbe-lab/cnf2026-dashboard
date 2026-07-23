@@ -4,7 +4,7 @@ An interactive dashboard designed to help access to nutrient composition informa
 2026 Canadian Nutrient File (CNF).
 
 The CNF 2026 Dashboard is available here: 
-https://cnf2026-dashboard-qcbkn3v2zeodvyr7oomphn.streamlit.app/
+https://cnf2026-dashboard-n3cqxwmevw4dft8xhfhs4j.streamlit.app/
 
 ## Overview
 
