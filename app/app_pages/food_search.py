@@ -4,8 +4,9 @@
 # import libraries
 import streamlit as st
 from pathlib import Path
-
+from PIL import Image
 from cnf_functions import *
+
 
 
 # Find project root folder
@@ -27,16 +28,27 @@ if "selected_food_code" not in st.session_state:
 if "food_dashboard" not in st.session_state:
     st.session_state.food_dashboard = None
 
+# Load logos for top of food search page
+# Import logos
+logos = Image.open(BASE_DIR / "logo" / "logos.png")
+
+# Specify location of logos (on top of disclaimer, right side)
+left, logo = st.columns([10, 3])
+
+with logo:
+    st.image(logos, width=350)
+
+
 # Add project disclaimer at the top of the page
 st.markdown(
     """
     <div style="
         background-color: #e8f4fd;
-        padding: 10px 10px;
+        padding: 10px 10px 2px 10px;
         border-radius: 4px;
-        font-size: 13px;
+        font-size: 14px;
         line-height: 1.1;
-        margin-bottom: 14px;
+        margin-bottom: 5px;
     ">
     <b>Disclaimer</b><br><br>
 
@@ -44,17 +56,12 @@ st.markdown(
     endorsed by or affiliated with Health Canada.<br>
 
     It uses the publicly available Canadian Nutrient File (CNF) 2026 data from Health
-    Canada and was developed to make finding food nutrient profiles easier, modelled
-    after the Canadian Nutrient File (CNF) – Search by food tool created for the 2015 CNF.<br>
+    Canada and was developed to make finding food nutrient profiles easier. It was modelled
+    after the CNF – Search by food tool created for the 2015 CNF.<br>
 
-    This dashboard does not replace the official CNF 2026 resources. Original CNF 2026 files and
-    User Guides are available from Health Canada:<br>
+    This dashboard does not replace the official CNF 2026 resources, which are available from Health Canada:
     <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-about-us.html">
-    Canadian Nutrient File - Health Canada</a><br>
-
-    If you have questions, feedback, or comments about this dashboard, please
-    contact: <b>labbe.lab@utoronto.ca</b>
-
+    Canadian Nutrient File - Health Canada</a>
     </div>
     """,
     unsafe_allow_html=True
@@ -225,3 +232,21 @@ elif search_term:
             display_food_results(search_results)
 
 
+# Dashboard footer with lab information
+st.markdown(
+    """
+    <hr style="margin-top: 25px; margin-bottom: 13px;">
+
+    <div style="
+        font-size: 13px;
+        color: #666;
+        text-align: center;
+    ">
+        This dashboard was developed by the <b>L'Abbé Lab</b> at the University of Toronto.
+        <br>
+        If you have questions, feedback, or comments, please contact:
+        <b>labbe.lab@utoronto.ca</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
