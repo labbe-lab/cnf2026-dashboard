@@ -43,7 +43,9 @@ with logo:
 st.markdown(
     """
     <div style="
-        background-color: #e8f4fd;
+        background-color: rgba(0, 104, 201, 0.12);
+        border: 1px solid rgba(0, 104, 201, 0.25);
+        color: inherit;
         padding: 10px 10px 2px 10px;
         border-radius: 4px;
         font-size: 14px;
